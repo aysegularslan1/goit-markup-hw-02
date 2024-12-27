@@ -122,14 +122,14 @@ header nav .nav-list:focus {
 
 .our-team-title {
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .our-team-text {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -145,10 +145,10 @@ header nav .nav-list:focus {
 }
 .portfolio-title {
   font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 .portfolio-text {
   font-size: 16px;
